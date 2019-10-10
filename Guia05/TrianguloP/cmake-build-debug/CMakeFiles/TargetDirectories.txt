@@ -1,0 +1,3 @@
+C:/Users/bryan/CLionProjects/TrianguloP/cmake-build-debug/CMakeFiles/TrianguloP.dir
+C:/Users/bryan/CLionProjects/TrianguloP/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bryan/CLionProjects/TrianguloP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
